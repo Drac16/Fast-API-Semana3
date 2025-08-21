@@ -1,10 +1,10 @@
 # Mi Primera API FastAPI - Bootcamp
 
-**��� Desarrollador**: jhon godoy
-**��� Email**: 200146218+jhonjanner1@users.noreply.github.com
+**��� Desarrollador**: Angel Rodriguez
+**��� Email**: 200131428+Drac16@users.noreply.github.com
 **� Privacidad**: Email configurado según mejores prácticas de GitHub
 **���� Fecha de creación**: 2025-08-15 23:04:20
-**��� Ruta del proyecto**: /c/Users/giova/desarrollo-personal/jhon-godoy-bootcamp/mi-primera-api-fastapi
+**��� Ruta del proyecto**: /c/Users/python/desarrollo-personal/angel-rodriguez-bootcamp/mi-primera-api-fastapi
 **��� Equipo de trabajo**: DESKTOP-DOG67T6
 
 ## ��� Configuración Local
