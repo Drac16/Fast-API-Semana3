@@ -10,9 +10,6 @@ from fastapi.responses import JSONResponse
 from app.exceptions import BookNotFoundError, DuplicateISBNError
 from app.utils import create_success_response, create_error_response
 
-# ===============================
-# Configuración de la aplicación
-# ===============================
 app = FastAPI(
     title="Mi API Organizada",
     description="API de productos con estructura profesional",
